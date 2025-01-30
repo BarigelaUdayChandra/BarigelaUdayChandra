@@ -9,6 +9,7 @@
 -  Electronics Product Features & Reviews Website (Final Year Project)
 
 - 🌱 I’m currently learning **Full stack development**
+- Database 
 
 - 👨‍💻 All of my projects are available at [https://github.com/BarigelaUdayChandra/ALL-Projects.git](https://github.com/BarigelaUdayChandra/ALL-Projects.git)
 
