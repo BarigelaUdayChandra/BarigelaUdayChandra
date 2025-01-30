@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **itsmeudaychandra@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/BarigelaUdayChandra/my-resume/raw/main/UDAY-CHANDRA-BARIGELA-RESUME.pdf](https://github.com/BarigelaUdayChandra/my-resume/raw/main/UDAY-CHANDRA-BARIGELA-RESUME.pdf)
+- 📄 Know about my experiences [https://github.com/BarigelaUdayChandra/my-resume/raw/main/UDAY-CHANDRA-BARIGELA-RESUME.pdf](https://github.com/BarigelaUdayChandra/resume/raw/main/UDAY-CHANDRA-BARIGELA_RESUME.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
