@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barigelaudaychandra&label=Profile%20views&color=0e75b6&style=flat" alt="barigelaudaychandra" /> </p>
 
-- 🔭 I’m currently working on Electronic Product Features & Reviews Website (Final Year Project)
+- 🔭 I’m currently working on  Electronics Product Features & Reviews Website (Final Year Project)
 
 - 🌱 I’m currently learning **Full stack development**
 
