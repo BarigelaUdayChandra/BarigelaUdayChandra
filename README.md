@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently learning **Full stack development** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/BarigelaUdayChandra/ALL-Projects.git](https://github.com/BarigelaUdayChandra/ALL-Projects.git)
+- 👨‍💻 All of my projects are available at
+-  [https://github.com/BarigelaUdayChandra/ALL-Projects.git](https://github.com/BarigelaUdayChandra/ALL-Projects.git)
 
 - 📫 How to reach me **itsmeudaychandra@gmail.com**
 
